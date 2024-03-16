@@ -1,0 +1,26 @@
+header{
+    display: flex;
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+    background-color: #dcdcdc;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    width: 40%;
+    height: auto;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+    text-align: right;
+    
+}
+section{
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
